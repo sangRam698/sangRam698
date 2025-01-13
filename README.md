@@ -1,14 +1,14 @@
 <!-- ## <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif" width="60%" height="60%" align="center"> -->
 
-## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Sagar+More.;I+am+a+Data+Enthusiast.;Checkout+my+Github+Portfolio+🥋!)](https://git.io/typing-svg) </div>
+## <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=1000&pause=1500&center=true&vCenter=true&width=600&height=100&lines=Hi!+I+am+Sangram+Dabhade.;I+am+a+Data+Enthusiast.;Checkout+my+Github+Portfolio+🥋!)](https://git.io/typing-svg) </div>
 
 ### <div align="center"> [![LinkedIn](https://img.shields.io/badge/|-LinkedIn-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagarmorework) [![Portfolio](https://img.shields.io/badge/|-Portfolio-333333?style=flat&logo=affine&logoColor=white)](https://mavenanalytics.io/profile/Sagar-More/206376940) [![Email](https://img.shields.io/badge/|-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarmore.work@gmail.com) [![Mobile](https://img.shields.io/badge/|-(+91)8329843490-6AA84F?style=flat&logo=allocine&logoColor=white)]() </div>
 
-Welcome to my GitHub profile! I am a Data Analyst with a passion for turning data into actionable insights. I am skilled in PowerBI, SQL (MySQL & PostgreSQL), Python (Libs: Numpy, Pandas, Matplotlib, Seaborn, Plotly), Excel, Alteryx & Statistics, and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
+Welcome to my GitHub profile! I am a Data Analyst with a passion for turning data into actionable insights. I am skilled in PowerBI, SQL (MySQL & PostgreSQL), Python (Libs: Numpy, Pandas, Matplotlib, Seaborn, Plotly), Excel & Statistics, and thrive on the challenge of diving deep into data to uncover trends and insights that drive business success.
 
 My journey into data analysis began while working for 3.5 yrs as a SAP UI5 Frontend Developer at Accenture, where I discovered my innate abilities in this field. There, I not only developed apps but also analyzed the data they generated, honing my analytical skills & helping my clients with crucial, data-driven business decisions.
 
-Holding a Bachelor's degree in Electronics & Telecommunication, I bring a unique perspective to data analysis, blending technical proficiency with analytical acumen. This combined with my practical experience in data analysis and nack for user friendly design, positions me uniquely to help organizations leverage their data for strategic business advantage.
+Holding a Bachelor's degree in Mechanical Engineering, I bring a unique perspective to data analysis, blending technical proficiency with analytical acumen. This combined with my practical experience in data analysis and nack for user friendly design, positions me uniquely to help organizations leverage their data for strategic business advantage.
 
 Explore my Git repositories to see how I can contribute to your team’s success and reach out to me for opportunities, collaboration, feedback or just to say Hi!
 
@@ -24,14 +24,6 @@ Explore my Git repositories to see how I can contribute to your team’s success
 |-|-|-|-|-|-|-|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" title="seaborn" alt="seaborn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="plotly" width="55" height="55"/> |
 
-<!-- | Conda | Spark | DAX Studio |
-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | -->
-
-### Misc:
-| DevOps | AppInsights | JS | SAPUI5 |
-|-|-|-|-|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" title="Devops" alt="Devops" width="55" height="55"/> | <img src="https://symbols.getvecta.com/stencil_28/8_application-insights.e5d256458d.svg" title="Appinsights" alt="Appinsights" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/d27f4c2e-ec7b-4921-a9e0-19a06445c809" title="Sapui5" alt="Sapui5" width="55" height="55"/> |
 
 ---
 
