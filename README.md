@@ -17,7 +17,7 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 | Power BI | MySQL | PostgreSQL | Alteryx | Excel | Statistics |
 |-|-|-|-|-|-|
 | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img <img src="https://github.com/sangRam698/sangRam698/blob/main/Tableau.png?raw=true" alt="Tableau" title="Tableau" width="55" height="55"/>
-src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/> | <img src="https://companieslogo.com/img/orig/AYX-cdb1d00e.png?t=1720244490" title="Alteryx" alt="Alteryx" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a1beaf-7537-4903-aaa5-9ef328048317" title="Statistics" alt="Statistics" width="55" height="55"/> |
+src="https://companieslogo.com/img/orig/AYX-cdb1d00e.png?t=1720244490" title="Alteryx" alt="Alteryx" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a1beaf-7537-4903-aaa5-9ef328048317" title="Statistics" alt="Statistics" width="55" height="55"/> |
 
 ### Python 3 & Libraries:
 | Python 3 | Jupyter | NumPy | Pandas | Matplotlib | Seaborn | Plotly |
