@@ -39,4 +39,9 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 
 ---
 
+<img align="left" width="250" height="150" src="https://github.com/sangRam698/sangRam698/blob/main/Screenshot%202025-01-16%20162420.png"> **[GoodCab Data Analysis](https://github.com/sangRam698/Good_Cab_Data_Analysis_-CodeBasics-)**
+</p> In this project, I analyzed company's performance using key metrics such as trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance between new and repeat passengers. The insights from this analysis will be instrumental in driving operational improvements and meeting the Business objectives for the upcoming Months Leveraging Power BI, I developed comprehensive Performance and  TRip Demand reports to support strategic decision-making. This process involved employing ETL methodologies, Power Query, Data Modeling and DAX to transform and visualize the data effectively..
+</p>
+<br><br><br>
+
 
