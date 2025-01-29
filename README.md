@@ -48,21 +48,50 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 ---
 
 <img align="left" width="250" height="150" src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/Screenshot%202025-01-29%20090426.png"> **[AtliQMart_Supply_Chain_Analysis(POWER BI)](https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis)**
-</p> ## Supply Chain Analysis for AtliQ Mart  
+</p> # 🚀 AtliQ Mart - Supply Chain Analysis (Power BI)  
 
-In this project, I conducted a **Supply Chain Analysis** for **AtliQ Mart**, utilizing **Power BI** to monitor key performance indicators (KPIs), including:  
+## 📌 Project Overview  
+This project focuses on **Supply Chain Analysis** for **AtliQ Mart**, leveraging **Power BI** to monitor and analyze key supply chain performance indicators (KPIs).  
 
-- **On-Time %**  
-- **In-Full %**  
-- **On-Time & In-Full % (OTIF%)**  
-- **Line Fill Rate %**  
-- **Volume Fill Rate %**  
-- **Average Days of Delayed Delivery**  
+## 📊 Key Performance Indicators (KPIs)  
+- ✅ **On-Time %**  
+- ✅ **In-Full %**  
+- ✅ **On-Time & In-Full % (OTIF%)**  
+- ✅ **Line Fill Rate %**  
+- ✅ **Volume Fill Rate %**  
+- ✅ **Average Days of Delayed Delivery**  
 
-The interactive report provides **detailed insights** across **cities, product categories, and customers**, facilitating **performance tracking, trend analysis, and supply chain optimization**.  
-By leveraging data visualization and analytics, the report enables stakeholders to **identify inefficiencies, enhance operational performance, and drive data-driven decision-making**.  
+## 🔍 Insights & Benefits  
+The interactive Power BI report provides **in-depth insights** across:  
+📌 **Cities**  
+📌 **Product Categories**  
+📌 **Customers**  
 
-🚀 **Tools Used:** Power BI | Data Visualization | KPI Monitoring | Supply Chain Analytics  
+This enables:  
+⚡ **Performance Tracking**  
+📈 **Trend Analysis**  
+📦 **Supply Chain Optimization**  
+
+By leveraging **data visualization and analytics**, the report helps stakeholders **identify inefficiencies, enhance operational performance, and drive data-driven decision-making**.  
+
+## 🛠 Tools & Technologies Used  
+- 📊 **Power BI**  
+- 📈 **Data Visualization**  
+- 📍 **KPI Monitoring**  
+- 🔍 **Supply Chain Analytics**  
+
+---  
+
+### 📢 Connect & Collaborate  
+💡 **Interested in supply chain analytics? Let's connect!**  
+
+---
+
+This format improves **readability** and makes it **visually structured**. You can add an image of your Power BI dashboard using:  
+
+```markdown
+![Dashboard Preview](link-to-your-image)
+
 
 </p>
 <br><br><br>
