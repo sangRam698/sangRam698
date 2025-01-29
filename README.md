@@ -48,43 +48,9 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 ---
 
 <img align="left" width="250" height="150" src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/Screenshot%202025-01-29%20090426.png"> **[AtliQMart_Supply_Chain_Analysis(POWER BI)](https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis)**
-</p>  
-## 📌 Project Overview  
-This project focuses on **Supply Chain Analysis** for **AtliQ Mart**, leveraging **Power BI** to monitor and analyze key supply chain performance indicators (KPIs). 
-## 📊 Key Performance Indicators (KPIs)  
-
-- ✅ **On-Time %**  
-- ✅ **In-Full %**  
-- ✅ **On-Time & In-Full % (OTIF%)**  
-- ✅ **Line Fill Rate %**  
-- ✅ **Volume Fill Rate %**  
-- ✅ **Average Days of Delayed Delivery**  
-
-## 🔍 Insights & Benefits  
-The interactive Power BI report provides **in-depth insights** across:  
-📌 **Cities**  
-📌 **Product Categories**  
-📌 **Customers**  
-
-This enables:  
-⚡ **Performance Tracking**  
-📈 **Trend Analysis**  
-📦 **Supply Chain Optimization**  
-
-By leveraging **data visualization and analytics**, the report helps stakeholders **identify inefficiencies, enhance operational performance, and drive data-driven decision-making**.  
-
-## 🛠 Tools & Technologies Used  
-- 📊 **Power BI**  
-- 📈 **Data Visualization**  
-- 📍 **KPI Monitoring**  
-- 🔍 **Supply Chain Analytics**  
+</p>  I performed a Supply Chain Analysis for AtliQ Mart using Power BI, tracking key performance indicators such as On-Time %, In-Full %, On-Time & In-Full %, Line Fill Rate %, Volume Fill Rate %, and Average Days of Delayed Delivery. The report offers valuable insights into cities, product categories, and customers, allowing for effective performance monitoring, trend identification, and improved supply chain efficiency
 
 ---  
-
-
-  
-
-
 
 </p>
 <br><br><br>
