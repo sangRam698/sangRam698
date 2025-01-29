@@ -50,6 +50,9 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 <img align="left" width="250" height="150" src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/Screenshot%202025-01-29%20090426.png"> **[AtliQMart_Supply_Chain_Analysis(POWER BI)](https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis)**
 </p> # 🚀 AtliQ Mart - Supply Chain Analysis (Power BI)  
 
+
+
+
 ## 📌 Project Overview  
 This project focuses on **Supply Chain Analysis** for **AtliQ Mart**, leveraging **Power BI** to monitor and analyze key supply chain performance indicators (KPIs).  
 
