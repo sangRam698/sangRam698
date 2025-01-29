@@ -48,15 +48,22 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 ---
 
 <img align="left" width="250" height="150" src="https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis/blob/main/Assets/Screenshot%202025-01-29%20090426.png"> **[AtliQMart_Supply_Chain_Analysis(POWER BI)](https://github.com/sangRam698/AtliQMart_Supply_Chain_Analysis)**
-</p> In this project, I conducted a comprehensive Supply Chain Analysis for AtliQ Mart, utilizing Power BI to monitor key performance indicators (KPIs), including:
+</p> ## Supply Chain Analysis for AtliQ Mart  
 
-On-Time %
-In-Full %
-On-Time & In-Full % (OTIF%)
-Line Fill Rate %
-Volume Fill Rate %
-Average Days of Delayed Delivery
-The interactive report provides detailed insights across cities, product categories, and customers, facilitating performance tracking, trend analysis, and supply chain optimization. By leveraging data visualization and analytics, the report enables stakeholders to identify inefficiencies, enhance operational performance, and drive data-driven decision-making.
+In this project, I conducted a **Supply Chain Analysis** for **AtliQ Mart**, utilizing **Power BI** to monitor key performance indicators (KPIs), including:  
+
+- **On-Time %**  
+- **In-Full %**  
+- **On-Time & In-Full % (OTIF%)**  
+- **Line Fill Rate %**  
+- **Volume Fill Rate %**  
+- **Average Days of Delayed Delivery**  
+
+The interactive report provides **detailed insights** across **cities, product categories, and customers**, facilitating **performance tracking, trend analysis, and supply chain optimization**.  
+By leveraging data visualization and analytics, the report enables stakeholders to **identify inefficiencies, enhance operational performance, and drive data-driven decision-making**.  
+
+🚀 **Tools Used:** Power BI | Data Visualization | KPI Monitoring | Supply Chain Analytics  
+
 </p>
 <br><br><br>
 
