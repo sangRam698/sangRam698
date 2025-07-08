@@ -16,7 +16,7 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 ### Data ETL & Visualisation:
 
 | Power BI | MySQL | Tableau | Excel | Statistics | Machine Learning |
-|----------|-------|---------|-------|------------|------------------|
+|-|-|---------|-------|------------|------------------|
 | <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | 
 <img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/image2vector1.svg" title="Tableau" alt="Tableau" width="55" height="55"/> | 
