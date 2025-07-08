@@ -16,9 +16,14 @@ Explore my Git repositories to see how I can contribute to your team’s succes
 ### Data ETL & Visualisation:
 
 | Power BI | MySQL | Tableau | Excel | Statistics | Machine Learning |
-|-|-|-|-|-|-|
-| <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/image2vector1.svg" title="Tableau" alt="Tableau" width="55" height="55"/>
-| <img src="https://github.com/user-attachments/assets/0ed55528-bc48-414a-91c5-0d3d6da434d7" title="Excel" alt="Excel" width="55" height="55"/> | <img src="https://github.com/user-attachments/assets/00a1beaf-7537-4903-aaa5-9ef328048317" title="Statistics" alt="Statistics" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/image2vector.svg" title="Machine Learning" alt="Machine Learning" width="55" height="55"/> |
+|----------|-------|---------|-------|------------|------------------|
+| <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="55" height="55"/> | 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | 
+<img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/image2vector1.svg" title="Tableau" alt="Tableau" width="55" height="55"/> | 
+<img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/excel.svg" title="Excel" alt="Excel" width="55" height="55"/> | 
+<img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/statistics.svg" title="Statistics" alt="Statistics" width="55" height="55"/> | 
+<img src="https://raw.githubusercontent.com/sangRam698/sangRam698/main/ASSETS/image2vector.svg" title="Machine Learning" alt="Machine Learning" width="55" height="55"/> |
+
 
 
 
